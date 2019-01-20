@@ -1,4 +1,3 @@
-from django.http import JsonResponse
 from django.shortcuts import render
 from django.views.generic import View
 from django.contrib.auth import get_user_model
